@@ -19,8 +19,21 @@
 * **Ali Təhsil Müəssisəsi:** [Qərbi Kaspi Universiteti](https://wcu.edu.az/) | [Western Caspian University (WCU)](https://wcu.edu.az/)
 * **Kafedra:** **Təbiət Elmləri Kafedrası (Department of Natural Sciences)**
 * **Müəllif və Layihə Rəhbəri:** **Suleiman M. Hajizadeh** ([@SuleimanHajizadeh](https://github.com/SuleimanHajizadeh)) — *Bioinformatika, Tətbiqi Biologiya və Kompüter Elmləri*
-* **Əlaqə:** `suleyman.hacizade1@gmail.com`
+* **Əlaqə:** [suleyman.hacizade1@gmail.com](mailto:suleyman.hacizade1@gmail.com)
 * **Məkan:** Bakı, Azərbaycan (Baku, Azerbaijan)
+
+---
+
+## 🔒 Mənbə Kodu və Datalara Giriş İcazəsi / Private Data & Source Access
+
+> [!IMPORTANT]
+> **🇦🇿 Məlumat Bazası və Mənbə Kodu Məxfidir (Private):**  
+> Bu təşkilatdakı əsas mənbə kodu, 3D anatomik modellər və elmi məlumat bazası (**data**) **Private** (məxfi) rejimdə qorunur. Tədqiqat, akademik əməkdaşlıq və ya məlumat bazasına giriş icazəsi (**Access**) əldə etmək istəyirsinizsə, müəllifin rəsmi elektron poçt ünvanına müraciət edə bilərsiniz:  
+> 📧 **E-poçt:** [**suleyman.hacizade1@gmail.com**](mailto:suleyman.hacizade1@gmail.com?subject=CarboxMol%20VirtuLab%20-%20Private%20Data%20Access%20Request)
+>
+> **🇬🇧 Private Data & Source Code Notice:**  
+> The core source code, 3D anatomical datasets, and scientific knowledge base of this project are **Private**. To request **access** for academic collaboration or research purposes, please contact the author directly via email:  
+> 📧 **Email:** [**suleyman.hacizade1@gmail.com**](mailto:suleyman.hacizade1@gmail.com?subject=CarboxMol%20VirtuLab%20-%20Private%20Data%20Access%20Request)
 
 ---
 
