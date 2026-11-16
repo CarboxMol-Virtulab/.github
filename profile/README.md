@@ -1,90 +1,103 @@
-# 🔬 CarboxMol VirtuLab
-### Virtual Laboratoriya və 3D İnteraktiv Anatomiya Mərkəzi
+# CarboxMol VirtuLab
+
 ### Virtual Laboratory & 3D Interactive Anatomy Education Center
-
-<div align="center">
-
-[![Live Portal](https://img.shields.io/badge/🌐_Rəsmi_Portal-carboxmol--virtulab.github.io-002B49?style=for-the-badge&logo=github)](https://carboxmol-virtulab.github.io)
-[![PWA Ready](https://img.shields.io/badge/📱_PWA-100%25_Offline_Ready-2ea44f?style=for-the-badge&logo=pwa)](https://carboxmol-virtulab.github.io)
-[![Next.js 14](https://img.shields.io/badge/Next.js-14.2-black?style=for-the-badge&logo=next.js)](https://nextjs.org/)
-[![Three.js](https://img.shields.io/badge/Three.js-WebGL_3D-049EF4?style=for-the-badge&logo=three.js)](https://threejs.org/)
-[![Organization](https://img.shields.io/badge/Organization-CarboxMol_Virtulab-purple?style=for-the-badge)](https://github.com/CarboxMol-Virtulab)
-
-</div>
+### Qərbi Kaspi Universiteti Təbiət Elmləri Kafedrası
 
 ---
 
-## 🏛 Akademik Təşkilat və Rəhbərlik / Academic Affiliation
+## 1. Akademik Mənsubiyyət (Academic Affiliation)
 
-* **Ali Təhsil Müəssisəsi:** [Qərbi Kaspi Universiteti](https://wcu.edu.az/) | [Western Caspian University (WCU)](https://wcu.edu.az/)
-* **Kafedra:** **Təbiət Elmləri Kafedrası (Department of Natural Sciences)**
-* **Müəllif və Layihə Rəhbəri:** **Suleiman M. Hajizadeh** ([@SuleimanHajizadeh](https://github.com/SuleimanHajizadeh)) — *Bioinformatika, Tətbiqi Biologiya və Kompüter Elmləri*
-* **Əlaqə:** [suleyman.hacizade1@gmail.com](mailto:suleyman.hacizade1@gmail.com)
+* **Müəssisə:** Qərbi Kaspi Universiteti (Western Caspian University - WCU)
+* **Kafedra:** Təbiət Elmləri Kafedrası (Department of Natural Sciences)
+* **Müəllif və Layihə Rəhbəri:** Suleiman M. Hajizadeh
+* **İxtisas İstiqaməti:** Bioinformatika, Tətbiqi Biologiya və Kompüter Elmləri
+* **Rəsmi Əlaqə:** suleyman.hacizade1@gmail.com
 * **Məkan:** Bakı, Azərbaycan (Baku, Azerbaijan)
+* **Rəsmi Portal:** https://carboxmol-virtulab.github.io
 
 ---
 
-## 🔒 Mənbə Kodu və Datalara Giriş İcazəsi / Private Data & Source Access
+## 2. Məlumat Bazası və Mənbə Kodu Giriş Qaydaları (Data & Source Access Policy)
 
-> [!IMPORTANT]
-> **🇦🇿 Məlumat Bazası və Mənbə Kodu Məxfidir (Private):**  
-> Bu təşkilatdakı əsas mənbə kodu, 3D anatomik modellər və elmi məlumat bazası (**data**) **Private** (məxfi) rejimdə qorunur. Tədqiqat, akademik əməkdaşlıq və ya məlumat bazasına giriş icazəsi (**Access**) əldə etmək istəyirsinizsə, müəllifin rəsmi elektron poçt ünvanına müraciət edə bilərsiniz:  
-> 📧 **E-poçt:** [**suleyman.hacizade1@gmail.com**](mailto:suleyman.hacizade1@gmail.com?subject=CarboxMol%20VirtuLab%20-%20Private%20Data%20Access%20Request)
->
-> **🇬🇧 Private Data & Source Code Notice:**  
-> The core source code, 3D anatomical datasets, and scientific knowledge base of this project are **Private**. To request **access** for academic collaboration or research purposes, please contact the author directly via email:  
-> 📧 **Email:** [**suleyman.hacizade1@gmail.com**](mailto:suleyman.hacizade1@gmail.com?subject=CarboxMol%20VirtuLab%20-%20Private%20Data%20Access%20Request)
+### Məxfilik Bildirişi (Private Repository Notice)
+CarboxMol VirtuLab platformasının əsas mənbə kodu, 3D anatomik modelləşdirmə faylları, laboratoriya alqoritmləri və tədqiqat məlumat bazası daxili tədris və tədqiqat məqsədləri üçün qapalı (Private) rejimdə qorunur.
 
----
+Layihə ilə tanışlıq, elmi-tədqiqat əməkdaşlığı və ya məlumat bazasına giriş icazəsi (Access) əldə etmək üçün müəllifə rəsmi elektron poçt vasitəsilə müraciət edilməlidir:
+* **E-poçt:** suleyman.hacizade1@gmail.com
+* **Mövzu:** CarboxMol VirtuLab - Tədqiqat və Giriş İcazəsi Müraciəti
 
-## 🌟 Layihənin Missiyası (Mission & Objectives)
-
-**CarboxMol VirtuLab** — Qərbi Kaspi Universitetinin təbiət elmləri, tibbə hazırlıq, biologiya və biotexnologiya ixtisasları üzrə təhsil alan tələbələri üçün nəzəri dərsləri yüksək texnologiyalı virtual təcrübəyə çevirən innovativ tədris ekosistemidir.
-
-Platforma tələbələrə laboratoriya təhlükəsizliyi, optik mikroskopiya, seroloji qan qrupları analizi, ferment kinetikası və insan anatomiyasının mürəkkəb 3D strukturunu interaktiv mühitdə dərindən mənimsəmək imkanı verir.
+### Private Data & Source Code Policy (English)
+The core source code, high-resolution 3D anatomical datasets, and clinical laboratory algorithms within this organization are maintained in private repositories for academic integrity and institutional governance. To request authorized access or propose research collaboration, please contact the project lead directly at suleyman.hacizade1@gmail.com.
 
 ---
 
-## 🗂 Rəsmi Repozitoriyalar / Official Repositories
+## 3. Layihənin Təyinatı və Missiyası (Mission and Scope)
 
-| Repozitoriya | Növ | Təsvir | Link |
-| :--- | :--- | :--- | :--- |
-| 💻 **Carboxmol-virtulab** | `Private` | Platformanın əsas mənbə kodu (Next.js 14, Three.js, TypeScript, PWA Service Worker) | [Repozitoriyaya keçid](https://github.com/CarboxMol-Virtulab/Carboxmol-virtulab) |
-| 🌐 **CarboxMol-Virtulab.github.io** | `Public` | Canlı veb və PWA istehsalat yerləşdirilməsi (GitHub Pages avtomatik CI/CD) | [Repozitoriyaya keçid](https://github.com/CarboxMol-Virtulab/CarboxMol-Virtulab.github.io) |
-| ⚙️ **.github** | `Public` | Təşkilat profili və qlobal konfiqurasiyalar | [Repozitoriyaya keçid](https://github.com/CarboxMol-Virtulab/.github) |
+CarboxMol VirtuLab Qərbi Kaspi Universitetinin biologiya, təbiət elmləri, biotexnologiya və tibbə hazırlıq ixtisasları üzrə təhsil alan tələbələri üçün hazırlanmış rəqəmsal tədris və simulyasiya ekosistemidir. 
+
+Platformanın əsas məqsədi dərsliklərdə verilən nəzəri bilikləri real vaxt rejimində çalışan interaktiv simulyasiyalarla birləşdirmək, tələbələrin klinik təfəkkürünü və laboratoriya vərdişlərini inkişaf etdirməkdir.
 
 ---
 
-## 📱 PWA və Oflayn Sinxronizasiya (Cross-Platform PWA)
+## 4. Təşkilatın Rəsmi Repozitoriyaları (Official Repositories)
 
-* 📶 **Tam Oflayn Dəstək:** Layihə qabaqcıl PWA (Progressive Web App) standartı ilə inşa edilmişdir. Tətbiqi kompüterə (macOS, Windows, Linux) və ya mobil cihaza (iOS, Android) quraşdırdıqdan sonra internetsiz istənilən yerdə 100% oflayn rejimdə işlətmək mümkündür.
-* 🔄 **Avtomatik Arxa Plan Sinxronizasiyası:** Cihazınız internet şəbəkəsinə qoşulan kimi Service Worker ən son yenilikləri, test bazasını və vizual materialları avtomatik sinxronlaşdırır. Brauzerdə və quraşdırılmış tətbiqdə həmişə ən son versiya aktiv qalır.
-
----
-
-## 🧪 Əsas İnteraktiv Modullar
-
-1. 🫀 **3D İnsan Anatomiyası Atlası:**
-   * 360° interaktiv WebGL vizuallaşdırma və orqan seçimi zamanı dinamik yaxınlaşma (zoom & inspect).
-   * **Üçdilli Beynəlxalq Nomenklatura:** 1. Latın dili (*Terminologia Anatomica*), 2. İngilis dili, 3. Azərbaycan dili.
-   * Latınca terminlərin fonetik səsli tələffüzü (TTS) və klinik qeydlər.
-2. 🔬 **Virtual İşıq Mikroskopu Simulyatoru:**
-   * 4x, 10x, 40x və 100x (yağ immersion) obyektivlər, makro/mikrovint fokus tənzimlənməsi.
-   * 6 fərqli histoloji və mikrobioloji preparat kolleksiyası, mikrometrik hüceyrə ölçmə şəbəkəsi.
-3. 🩸 **Laboratoriya Reaksiyaları:**
-   * Anti-A, Anti-B və Anti-D zərdabları ilə qan qrupunun təyini (aqlütinasiya simulyasiyası).
-   * Katalaza ferment kinetikası (temperatur və pH asılılığı, O₂ köpüklənməsi).
-   * Osmos hadisəsi və eritrositlərin osmotik rezistentliyi.
-4. 📋 **SOP və Biotəhlükəsizlik:**
-   * BSL-1 &rarr; BSL-4 təhlükəsizlik dərəcələri, mikropipet, sentrifuqa, spektrofotometr və avtoklav qaydaları.
-5. 🎓 **İmtahan, Flashcards və Sertifikat:**
-   * 3D ikitərəfli çevrilən termin kartları, bilik testi və rəsmi çap oluna bilən laboratoriya protokolu.
+| Repozitoriya | Status | Təyinatı |
+| :--- | :--- | :--- |
+| Carboxmol-virtulab | Qapalı (Private) | Əsas mənbə kodu (Next.js, TypeScript, Three.js, WebGL, Service Worker) |
+| CarboxMol-Virtulab.github.io | Açıq (Public) | Rəsmi statik veb yayımlanması və PWA istehsalat mühiti |
+| .github | Açıq (Public) | Təşkilat səviyyəli profil sənədləşməsi və standartlar |
 
 ---
 
-<div align="center">
+## 5. Əsas İnteraktiv Modullar (Core Modules)
 
-&copy; 2026 **CarboxMol VirtuLab** | **Qərbi Kaspi Universiteti (Western Caspian University)**  
-*Təbiət Elmləri Kafedrası | Müəllif: Suleiman M. Hajizadeh*
+### 1. 3D İnsan Anatomiyası Atlası
+* Üçölçülü fəza koordinatları əsasında 360 dərəcə orqan müşahidəsi, kəsik aparılması və rentgen vizuallaşdırması.
+* Beynəlxalq standartlara uyğun ardıcıl üçdilli nomenklatura:
+  1. Latın dili (Terminologia Anatomica - TA2)
+  2. İngilis dili
+  3. Azərbaycan dili
+* 201 fərdi orqan və 11 anatomik sistem üzrə funksional, topoqrafik və klinik patologiya qeydləri.
+* Latınca terminlərin fonetik nitq sintezi tələffüzü.
 
-</div>
+### 2. Virtual İşıq Mikroskopu Simulyatoru
+* Optik mexanika simulyasiyası: 4x, 10x, 40x və 100x (yağ immersion) obyektivlər.
+* Makrometrik və mikrometrik vint fokuslaması ilə fiziki optik dərinlik və bulanıqlıq effekti.
+* 17 fərdi histoloji və mikrobioloji preparat kolleksiyası (qan yaxması, hərəki neyron, eninəzolaqlı əzələ, miokard, bitki toxumaları, Qram boyanması).
+* Hüceyrələrin həndəsi ölçülərini təyin etmək üçün kalibrlənmiş mikrometrik şəbəkə.
+
+### 3. Klinik və Kimyəvi Laboratoriya Sınaqları
+* Seroloji qan qrupunun təyini (ABO və Rh sistemləri) və aqqlütinasiya sınaqları.
+* Katalaza ferment kinetikası: temperatur və pH dərəcəsinin reaksiyanın ilkin sürətinə və fermentin denaturasiyasına təsiri.
+* Eritrosit membranının osmotik rezistentliyi (hipotonik hemoliz, izotonik tarazlıq, hipertonik plazmoliz).
+* Molekulyar biologiya: PZR (polimeraza zəncir reaksiyası) termik dövriyyəsi və aqaroza gelində DNT elektroforezi.
+* Termokimya: qələvi metalların su ilə reaksiyasında entalpiya dəyişmələri və alov emissiyası.
+
+### 4. Laboratoriya Cihazları və Biotəhlükəsizlik Qaydaları (SOP)
+* 16 analitik laboratoriya cihazının (avtomat mikropipetlər, sentrifuqa, spektrofotometr, avtoklav və s.) standart əməliyyat prosedurları.
+* BSL-1 səviyyəsindən BSL-4 səviyyəsinə qədər beynəlxalq biotəhlükəsizlik protokolları.
+
+### 5. Qiymətləndirmə, Flashcard Sistemi və Akademik Protokol
+* Tibbi və bioloji imtahan bazası üzrə interaktiv testlər.
+* İkitərəfli 3D termin kartları (Spaced Repetition metodu).
+* Tələbənin nəticələrini təsdiq edən çap edilə bilən rəsmi laboratoriya protokolu.
+
+---
+
+## 6. Proqram Arxitekturası və Oflayn PWA Standartı
+
+* **Frontend Arxitekturası:** Next.js (App Router), React, TypeScript, Tailwind CSS.
+* **3D Qrafika Mühərriki:** Three.js (WebGL Hardware Accelerated Rendering).
+* **Oflayn İnteqrasiya:** W3C Service Worker standartı, Cache Storage API və Web App Manifest.
+* **Platformalararası Uyğunluq:** Masaüstü (macOS, Windows, Linux) və mobil (iOS, Android) əməliyyat sistemlərində veb brauzer və ya quraşdırılmış tətbiq (Standalone App) kimi 100% oflayn rejimdə işləmə imkanı.
+
+---
+
+## 7. Müəlliflik Hüququ və Əlaqə
+
+CarboxMol VirtuLab platformasının bütün konseptual strukturu, proqram təminatı arxitekturası və tədris materialları Qərbi Kaspi Universiteti Təbiət Elmləri Kafedrasının müəllif hüquqları çərçivəsində tənzimlənir.
+
+* **Layihə Rəhbəri:** Suleiman M. Hajizadeh
+* **Əlaqə E-poçtu:** suleyman.hacizade1@gmail.com
+* **Təşkilat:** Western Caspian University | Department of Natural Sciences
+* **Ünvan:** Bakı, Azərbaycan
